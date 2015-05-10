@@ -60,7 +60,7 @@ local character = {
 
 character['function'] = 'Cook';
 
-print(characer.function); -- 'name' expected near 'function'
+print(character.function); -- 'name' expected near 'function'
 
 
 -- good
